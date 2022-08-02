@@ -55,5 +55,7 @@
   "branch_target_mapping": null,
   "need_generate_pdf_url_template": false,
   "need_generate_pdf": false,
-  "need_generate_intellisense": false
+  "need_generate_intellisense": false,
+  "targets": {},
+  "need_preview_pull_request": true
 }
