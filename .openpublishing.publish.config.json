@@ -5,6 +5,7 @@
       "docset_name": "DocsLegal",
       "build_source_folder": "DocsLegal",
       "build_output_subfolder": "DocsLegal",
+      "need_preview_pull_request": true,
       "locale": "en-au",
       "monikers": [],
       "moniker_ranges": [],
@@ -16,7 +17,6 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes",
-      "need_preview_pull_request": true,
       "version": 0
     },
     {
